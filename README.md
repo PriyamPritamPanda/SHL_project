@@ -37,7 +37,3 @@ Given a dataset of `.wav` audio files and their associated grammar scores, the t
 
 - **File**: `bert-whisper2 (1).ipynb`
 
----
-
-## 📁 File Structure
-
